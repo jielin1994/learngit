@@ -7,4 +7,6 @@ I want to try it again.
 
 Creating a new branch is quick and simple.
 
+merge with no-ff
+
 
