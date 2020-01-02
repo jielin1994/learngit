@@ -11,6 +11,9 @@ merge with no-ff
 
 I haven't finished this work, but now I find a bug in another bug, so I have to stop my work.
 
+try again!
+
+
 Now I have solved the bug 101, I am doing my work.
 
 If I use "git add",
